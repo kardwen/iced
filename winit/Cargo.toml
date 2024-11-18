@@ -14,7 +14,7 @@ keywords.workspace = true
 workspace = true
 
 [features]
-default = ["x11", "wayland", "wayland-dlopen", "wayland-csd-adwaita"]
+default = ["x11", "wayland", "wayland-csd-adwaita"]
 debug = ["iced_runtime/debug"]
 system = ["sysinfo"]
 program = []
